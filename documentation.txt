@@ -1,0 +1,9 @@
+Font to use: Arial
+Color palettes: 
+- orange (#f0a500)
+- black (#1a1c20)
+- darkorange (#cf7500)
+- light white (#f4f4f4)
+
+logo: <i class="fab fa-angellist"></i>
+spacer: 80px;
